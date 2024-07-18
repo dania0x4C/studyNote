@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/백엔드/nest.js/2. nest구조/3. Decorater.md",
+                "file": "Study/백엔드/nest.js/5. middleware/middleware.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/백엔드/nest.js/2. nest구조/3. Decorater.md",
+                "file": "Study/백엔드/nest.js/5. middleware/middleware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/백엔드/nest.js/2. nest구조/3. Decorater.md",
+                "file": "Study/백엔드/nest.js/5. middleware/middleware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/백엔드/nest.js/2. nest구조/3. Decorater.md"
+                "file": "Study/백엔드/nest.js/5. middleware/middleware.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "5b59b5d55104b786",
   "lastOpenFiles": [
-    "Study/백엔드/nest.js/2. nest구조/2. Class.md",
+    "Study/백엔드/nest.js/6. Exception",
     "Study/백엔드/nest.js/2. nest구조/3. Decorater.md",
+    "Study/백엔드/nest.js/2. nest구조/2. Class.md",
     "Study/백엔드/nest.js/5. middleware/middleware.md",
     "Study/백엔드/nest.js/4. fileteringPassword/1. serialization.md",
     "Study/백엔드/nest.js/5. middleware",
@@ -205,7 +206,6 @@
     "면접/SanJoseStateUniversity application.md",
     "Study/백엔드/nest.js/png",
     "Study/백엔드/nest.js/2. nest구조",
-    "Study/백엔드/aws/2. EC2 생성/EC2.md",
     "png/Pasted image 20240625124330.png",
     "Study/무제 파일 1.canvas",
     "Study/무제 파일.canvas"
