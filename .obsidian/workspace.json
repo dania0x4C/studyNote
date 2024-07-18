@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "abc146dbf0450139",
+    "type": "split",
+    "children": [
+      {
+        "id": "b801e9d4d164717b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95e6dff3fa63d0ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/백엔드/nest.js/4. fileteringPassword/1. serialization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "899b618ba9c3fdc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/백엔드/nest.js/2. nest구조/3. Decorater.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab8bddcd9a22f504",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f60b342c55cec52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b59b5d55104b786",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a638c3945ae6a70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5911473f5af3458e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b6bcef44b73d61d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e64a36118e99a6fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33646b5d4967a327",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Study/백엔드/nest.js/2. nest구조/3. Decorater.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "500ba2295ae8f590",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Study/백엔드/nest.js/2. nest구조/3. Decorater.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d2c27925d1c074a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0bf801ce2a6dac29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Study/백엔드/nest.js/2. nest구조/3. Decorater.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "5b59b5d55104b786",
+  "lastOpenFiles": [
+    "Study/백엔드/nest.js/2. nest구조/2. Class.md",
+    "Study/백엔드/nest.js/2. nest구조/3. Decorater.md",
+    "Study/백엔드/nest.js/5. middleware/middleware.md",
+    "Study/백엔드/nest.js/4. fileteringPassword/1. serialization.md",
+    "Study/백엔드/nest.js/5. middleware",
+    "Study/백엔드/TypeScript/2. plus.md",
+    "Study/백엔드/TypeScript/1. basic.md",
+    "Study/백엔드",
+    "Study/백엔드/nest.js/2. nest구조/1. controller, service, module.md",
+    "Study/백엔드/nest.js/1. nest 기본 실행/2. URL 구조.md",
+    "Study/백엔드/nest.js/1. nest 기본 실행/1. 다운 및 실행.md",
+    "Study/백엔드/nest.js/3. rest API 통신/4. validation(유효성 검사).md",
+    "Study/백엔드/nest.js/4. fileteringPassword",
+    "Study/백엔드/nest.js/3. rest API 통신/3. post.md",
+    "Study/백엔드/nest.js/3. rest API 통신/2. get, res, req.md",
+    "Study/백엔드/nest.js/3. rest API 통신/1. API test 서비스.md",
+    "면접/동아리 지원서.md",
+    "Templates",
+    "Study/nest.js/1. nest 기본 실행/1. 기본 구성.md",
+    "Study/백엔드/nest.js/png/Pasted image 20240704222857.png",
+    "Study/백엔드/nodeJS/express/기초 정리/url 구조.md",
+    "Study/백엔드/nodeJS/express/기초 정리/routing.md",
+    "Study/백엔드/nodeJS/카카오 api 사용/react.md",
+    "Study/백엔드/nodeJS/카카오 api 사용/카카오 로그인.md",
+    "Study/백엔드/nodeJS/카카오 api 사용/node.js.md",
+    "Study/백엔드/nest.js/3. rest API 통신",
+    "Study/BigData분석/버스 api 값 받아오기.md",
+    "Study/BigData분석/기말정리.md",
+    "면접/면접 준비.md",
+    "Study/소프트 웨어 공학.md",
+    "아이디어",
+    "면접",
+    "png/Pasted image 20240625121551.png",
+    "png/Pasted image 20240625122747.png",
+    "png/Pasted image 20240514005619.png",
+    "png",
+    "png/Pasted image 20240318161931.png",
+    "png/Pasted image 20240625121826.png",
+    "Study/백엔드/nest.js/png/Pasted image 20240704160337.png",
+    "Study/백엔드/nest.js/png/Pasted image 20240704160307.png",
+    "png/Pasted image 20240627102329.png",
+    "면접/SanJoseStateUniversity application.md",
+    "Study/백엔드/nest.js/png",
+    "Study/백엔드/nest.js/2. nest구조",
+    "Study/백엔드/aws/2. EC2 생성/EC2.md",
+    "png/Pasted image 20240625124330.png",
+    "Study/무제 파일 1.canvas",
+    "Study/무제 파일.canvas"
+  ]
+}

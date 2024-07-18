@@ -1,0 +1,1 @@
+stun server가 컴퓨터가 공용 ip를 찾게 해줌

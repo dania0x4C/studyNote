@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "d6e2ef9267b6b917",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bdc73bc1e4b3895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be9f171e5822108e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-18.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3c25fa5b504c90c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b96f0572ab1a05e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "874f94b4b1d9f178",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "475fad1bb8e3245d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b150946fd201e45f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6eed9e4d8b4c05ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "aabd1172768f7950",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c625cfcf254ccfa5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-03-18.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47b9307cceb6db97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-03-18.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f620739ba3cc1619",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1d9ef822f86bf184",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-03-18.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "templates:템플릿 삽입": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "be9f171e5822108e",
+  "lastOpenFiles": [
+    "StudyCoding/무제 폴더",
+    "StudyCoding/Welcome.md",
+    "StudyCoding",
+    "2024-03-18.md",
+    "소프트 웨어 공학.md",
+    "nodeJS/express/기초 정리/기초 정리.md",
+    "nodeJS/express/API/API.md",
+    "2024-03-17.md",
+    "mongoDB.md",
+    "2024-03-13.md",
+    "무제 폴더 1",
+    "무제 폴더",
+    "nodeJS/express/API/get.md",
+    "nodeJS/node.js 초기세팅.md",
+    "무제 파일 2.md",
+    "nodeJS/aws연결.md",
+    "2024-03-12.md",
+    "cors.md",
+    "nodeJS/express/express.md",
+    "2024-03-11.md",
+    "무제 파일 1.canvas",
+    "nodeJS/express/기초 정리/application.md",
+    "nodeJS/EJS/사용법.md",
+    "무제 파일 1.md",
+    "무제 파일.md",
+    "무제 파일.canvas",
+    "동아리 지원서.md",
+    "공모전 관련 아이디어/저상버스/API 정보.md",
+    "공모전 관련 아이디어/저상버스/저상 버스 실시간 api 구현 방식.md",
+    "nodeJS/express/API/put.md",
+    "nodeJS/express/API/post.md",
+    "nodeJS/크롤링",
+    "nodeJS/콜백개선",
+    "nodeJS/실시간",
+    "nodeJS/보안",
+    "nodeJS/multer",
+    "nodeJS/ajax",
+    "nodeJS/EJS"
+  ]
+}
