@@ -5,5 +5,5 @@
 
 
 새로운 개념
-1. [[cors]]
+1. [[Study/백엔드/nodeJS/cors]]
 2. 
