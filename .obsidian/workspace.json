@@ -4,24 +4,75 @@
     "type": "split",
     "children": [
       {
-        "id": "7dcc98382c63f25e",
+        "id": "a32beaca9e115234",
         "type": "tabs",
         "children": [
           {
-            "id": "074438a875478380",
+            "id": "2c7d3df9186368bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/sqld/데이터 모델.md",
+                "file": "Study/sqld/2. SQL 기본.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "데이터 모델"
+              "title": "2. SQL 기본"
+            }
+          },
+          {
+            "id": "053b74432375ee49",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "png/Pasted image 20250217222301.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250217222301"
+            }
+          },
+          {
+            "id": "e5f7f2db9fe9142d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "png/Pasted image 20250217222301.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250217222301"
+            }
+          },
+          {
+            "id": "bff51d906dcb5afc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "png/Pasted image 20250217222301.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250217222301"
+            }
+          },
+          {
+            "id": "477e3a4805147964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/sqld/2.2. NATURAL JOIN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2. NATURAL JOIN"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -163,10 +214,26 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "074438a875478380",
+  "active": "5b59b5d55104b786",
   "lastOpenFiles": [
+    "png/Pasted image 20250217222321.png",
+    "png/Pasted image 20250217222301.png",
+    "Study/sqld/2.2. NATURAL JOIN.md",
+    "Study/sqld/3. SQL 활용.md",
+    "Study/sqld/2. SQL 기본.md",
+    "Study/sqld/2.1. 카다시안 곱.md",
+    "png/Pasted image 20250217234127.png",
+    "png/Pasted image 20250217233254.png",
+    "png/Pasted image 20250217232753.png",
+    "png/Pasted image 20250217232221.png",
+    "png/Pasted image 20250217231110.png",
+    "png/Pasted image 20250217230805.png",
+    "png/Pasted image 20250217230133.png",
+    "png/Pasted image 20250217223755.png",
+    "png/Pasted image 20250217223523.png",
+    "Study/sqld/1.1. 정규화.md",
+    "Study/sqld/1. 데이터 모델링.md",
     "Study/docker/CICD.md",
-    "Study/sqld/데이터 모델.md",
     "Study/sqld",
     "Study/docker/연습.md",
     "Study/docker/5. docker compose.md",
@@ -188,24 +255,8 @@
     "Study/백엔드/aws/1. Practice/2. EC2 생성/EC2.md",
     "네트워크 정리",
     "Study/백엔드/aws/이론정리/1. aws.md",
-    "Study/백엔드/nest.js/2. nest구조/1. controller, service, module.md",
-    "Study/백엔드/nest.js/1. nest 기본 실행/2. URL 구조.md",
-    "Study/백엔드/nest.js/1. nest 기본 실행/1. 다운 및 실행.md",
-    "면접/면접 준비.md",
-    "면접/SanJoseStateUniversity application.md",
-    "면접/동아리 지원서.md",
     "무제 폴더",
-    "IDEF.png",
-    "png/시스템 아키텍처.png",
-    "png/Pasted image 20241212220400.png",
-    "Pasted image 20241213003714.png",
     "무제 파일.canvas",
-    "png/Pasted image 20241212224019.png",
-    "png/Pasted image 20241212220625.png",
-    "png/Pasted image 20241212220615.png",
-    "png/Pasted image 20241212220603.png",
-    "png/Pasted image 20241212220422.png",
-    "png/Pasted image 20241127234327.png",
     "아이디어/모두버스 2차 수정",
     "Study/apache, nginx",
     "Study/ORM -Prisma",
