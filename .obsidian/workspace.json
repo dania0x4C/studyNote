@@ -8,71 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c7d3df9186368bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/sqld/2. SQL 기본.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. SQL 기본"
-            }
-          },
-          {
-            "id": "053b74432375ee49",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "png/Pasted image 20250217222301.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250217222301"
-            }
-          },
-          {
-            "id": "e5f7f2db9fe9142d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "png/Pasted image 20250217222301.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250217222301"
-            }
-          },
-          {
             "id": "bff51d906dcb5afc",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "png/Pasted image 20250217222301.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250217222301"
-            }
-          },
-          {
-            "id": "477e3a4805147964",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/sqld/2.2. NATURAL JOIN.md",
+                "file": "Study/sqld/3. SQL 활용.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2. NATURAL JOIN"
+              "title": "3. SQL 활용"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9b6bcef44b73d61d",
@@ -214,25 +164,25 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5b59b5d55104b786",
+  "active": "bff51d906dcb5afc",
   "lastOpenFiles": [
-    "png/Pasted image 20250217222321.png",
-    "png/Pasted image 20250217222301.png",
-    "Study/sqld/2.2. NATURAL JOIN.md",
-    "Study/sqld/3. SQL 활용.md",
+    "Pasted image 20250219143320.png",
+    "Pasted image 20250219143146.png",
+    "Pasted image 20250219142821.png",
+    "Pasted image 20250219142802.png",
+    "Pasted image 20250219142737.png",
+    "Pasted image 20250219142657.png",
     "Study/sqld/2. SQL 기본.md",
+    "png/Pasted image 20250217222301.png",
+    "Study/sqld/3. SQL 활용.md",
+    "Study/sqld/2.2. NATURAL JOIN.md",
     "Study/sqld/2.1. 카다시안 곱.md",
+    "Study/sqld/1.1. 정규화.md",
+    "Study/sqld/1. 데이터 모델링.md",
+    "png/Pasted image 20250217222321.png",
     "png/Pasted image 20250217234127.png",
     "png/Pasted image 20250217233254.png",
     "png/Pasted image 20250217232753.png",
-    "png/Pasted image 20250217232221.png",
-    "png/Pasted image 20250217231110.png",
-    "png/Pasted image 20250217230805.png",
-    "png/Pasted image 20250217230133.png",
-    "png/Pasted image 20250217223755.png",
-    "png/Pasted image 20250217223523.png",
-    "Study/sqld/1.1. 정규화.md",
-    "Study/sqld/1. 데이터 모델링.md",
     "Study/docker/CICD.md",
     "Study/sqld",
     "Study/docker/연습.md",
