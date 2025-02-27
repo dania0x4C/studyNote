@@ -1,4 +1,4 @@
-[[Study/백엔드/nodeJS/express/express]]
+[[express]]
 
 1. [[get]]: getting data
 2. [[post]]: creating data
