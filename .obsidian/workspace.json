@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b0fa135be294babe",
+        "id": "e0b7e23334cd6fdb",
         "type": "tabs",
         "children": [
           {
-            "id": "7f71af889ec7053c",
+            "id": "169c7d947b8b76e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/sqld/1. 데이터 모델링.md",
+                "file": "Study/DB/sqld/5.2. 마지막 복습.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 데이터 모델링"
-            }
-          },
-          {
-            "id": "61134a78ee76335d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/sqld/문제풀이.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "문제풀이"
+              "title": "5.2. 마지막 복습"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/docker/2. docker 설치, 실행.md",
+                "file": "Study/DB/sqld/5.2. 마지막 복습.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2. docker 설치, 실행의 백링크"
+              "title": "5.2. 마지막 복습 의 백링크"
             }
           },
           {
@@ -179,8 +164,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "61134a78ee76335d",
+  "active": "169c7d947b8b76e6",
   "lastOpenFiles": [
+    "Study/DB/sqld/4.1. DML.md",
+    "Study/DB/sqld/4. 관리 구문.md",
+    "Study/DB/sqld/5.2. 마지막 복습.md",
+    "Study/DB/sqld/3. SQL 활용.md",
+    "Study/DB/sqld/3.3. 정규화.md",
+    "Study/DB/sqld/2.2. Join.md",
+    "Study/DB/sqld/2. SQL 기본.md",
+    "Study/DB/sqld/1.1. 정규화.md",
+    "png/Pasted image 20250217222113.png",
+    "Templates",
+    "Study/DB/sqld/2.1. 카다시안 곱.md",
+    "Study/DB/sqld/1. 데이터 모델링.md",
+    "Study/DB/sqld/5.1. 문제풀이.md",
     "lambda.md",
     "Study/sqld/문제풀이.md",
     "Study/sqld/1. 데이터 모델링.md",
@@ -201,24 +199,12 @@
     "png/Pasted image 20250226001912.png",
     "png/Pasted image 20250226001905.png",
     "png/Pasted image 20250226001857.png",
-    "png/Pasted image 20250226001850.png",
     "Study/sqld/4.4. DCL.md",
     "Study/sqld/4.2. TCL.md",
     "Study/sqld/4.1. DML.md",
     "Study/sqld/3.1. window 함수.md",
     "Study/sqld/3. SQL 활용.md",
-    "Study/sqld/2. SQL 기본.md",
-    "Study/sqld/4. 관리 구문.md",
-    "Study/sqld/3.3. 정규화.md",
-    "Study/sqld/3.2. TOP N 쿼리.md",
-    "Study/sqld/2.2.1 NATURAL JOIN.md",
-    "Study/sqld/2.2. Join.md",
-    "Study/sqld/2.1. 카다시안 곱.md",
-    "Study/sqld/1.1. 정규화.md",
-    "Study/docker/CICD.md",
     "Study/sqld",
-    "Study/docker/연습.md",
-    "Study/docker/4. postgre 이미지, ec2이미지.md",
     "Study/docker 1",
     "네트워크 정리",
     "무제 폴더",
@@ -227,7 +213,6 @@
     "Study/apache, nginx",
     "Study/ORM -Prisma",
     "Study/docker",
-    "Study/강화학습",
     "Study/백엔드/real-time-communication/무제 파일.canvas",
     "Study/무제 파일 1.canvas",
     "Study/무제 파일.canvas"
