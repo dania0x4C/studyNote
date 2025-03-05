@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e0b7e23334cd6fdb",
+        "id": "e87b118fc2a431de",
         "type": "tabs",
         "children": [
           {
-            "id": "169c7d947b8b76e6",
+            "id": "0609e15a49b0aaa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/DB/sqld/5.2. 마지막 복습.md",
+                "file": "Study/DB/sqld/5.2. 책 문제풀이.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.2. 마지막 복습"
+              "title": "5.2. 책 문제풀이"
+            }
+          },
+          {
+            "id": "9c2c265109d04529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/DB/sqld/5.3. 예상문제 1회 문제 풀이.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.3. 예상문제 1회 문제 풀이"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9b6bcef44b73d61d",
@@ -164,55 +178,55 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "169c7d947b8b76e6",
+  "active": "5b59b5d55104b786",
   "lastOpenFiles": [
+    "Study/DB/sqld/5.3. 예상문제 1회 문제 풀이.md",
+    "gitignore.md",
+    "Study/DB/sqld/5.2. 책 문제풀이.md",
     "Study/DB/sqld/4.4. DCL.md",
-    "Study/DB/sqld/5.1. 문제풀이.md",
-    "Study/DB/sqld/5.2. 마지막 복습.md",
+    "Study/DB/sqld/5.1. 마지막 복습.md",
+    "어포나티/깃.md",
+    "2025-03-05.md",
+    "어포나티",
     "Study/DB/sqld/3. SQL 활용.md",
-    "Study/DB/sqld/3.1. window 함수.md",
-    "Study/DB/sqld/2.2. Join.md",
     "Study/DB/sqld/2.2.1 NATURAL JOIN.md",
-    "Study/DB/sqld/1.1. 정규화.md",
-    "Study/DB/sqld/3.3. 정규 표현식.md",
-    "Study/DB/sqld/4.1. DML.md",
-    "Study/DB/sqld/4. 관리 구문.md",
+    "Study/DB/sqld/3.1. window 함수.md",
+    "Study/DB/sqld/3.2. TOP N 쿼리.md",
     "Study/DB/sqld/2. SQL 기본.md",
-    "png/Pasted image 20250217222113.png",
-    "Templates",
-    "Study/DB/sqld/2.1. 카다시안 곱.md",
     "Study/DB/sqld/1. 데이터 모델링.md",
-    "lambda.md",
-    "Study/sqld/문제풀이.md",
-    "Study/sqld/1. 데이터 모델링.md",
-    "Study/docker/5. docker compose.md",
-    "Study/docker/1. docker 기초개념.md",
-    "CS 정리/1. Server-Communication.md",
-    "Study/백엔드/express/1. express-signup 구현.md",
-    "Study/백엔드/TypeScript/1. basic.md",
-    "Study/spring/무제.md",
+    "springboot/1_week/0_자바 문법 기초.md",
+    "springboot/1_week/Ioc.md",
+    "springboot/1_week/Dispatcher Servlet.md",
+    "springboot/1_week/Annotation.md",
+    "springboot/1_week/DI.md",
+    "springboot/1_week/1_스프링 기본.md",
+    "springboot/1_week/자바의 메모리 구조.md",
+    "2025-03-04.md",
+    "springboot 복사본/spring/spring_hadoop_study/README.md",
+    "springboot 복사본/spring/spring_hadoop_study/demo/src/main/java/com/example/demo/DemoApplication.java",
+    "springboot 복사본/spring/spring_hadoop_study/demo/src/main/java/com/example/demo/service/UserService.java",
+    "springboot 복사본/spring/spring_hadoop_study/demo/src/main/java/com/example/demo/repository/UserRepository.java",
+    "springboot 복사본/spring/spring_hadoop_study/demo/src/main/java/com/example/demo/model/User.java",
+    "springboot 복사본/spring/spring_hadoop_study/demo/src/main/java/com/example/demo/controller/UserController.java",
+    "springboot 복사본/spring/spring_hadoop_study/demo/src/test/java/com/example/demo/DemoApplicationTests.java",
+    "springboot 복사본/spring/spring_hadoop_study/demo/src/main/java/com/example/demo/service",
+    "springboot 복사본/spring/spring_hadoop_study/demo/src/main/java/com/example/demo/repository",
+    "springboot 복사본/spring/spring_hadoop_study/demo/src/main/java/com/example/demo/model",
+    "springboot 복사본/1_week/자바의 메모리 구조.md",
+    "springboot 복사본/1_week/Ioc.md",
+    "springboot 복사본/1_week/Dispatcher Servlet.md",
+    "springboot 복사본/1_week/DI.md",
+    "png/스크린샷 2025-03-03 오후 9.45.50.png",
+    "png/스크린샷 2025-03-03 오후 10.21.07.png",
+    "png/스크린샷 2025-03-03 오후 10.20.27.png",
+    "png/스크린샷 2025-03-03 오후 9.46.27.png",
+    "png/Pasted image 20250217222113.png",
     "png/Pasted image 20250226001745.png",
     "png/Pasted image 20250225234749.png",
     "png/Pasted image 20250226001929.png",
-    "Study/spring",
     "png/Pasted image 20250226001836.png",
     "png/Pasted image 20250226001734.png",
-    "Study/sqld/4.3. DDL.md",
-    "png/Pasted image 20250226001922.png",
-    "png/Pasted image 20250226001912.png",
-    "png/Pasted image 20250226001905.png",
-    "png/Pasted image 20250226001857.png",
-    "Study/sqld/4.4. DCL.md",
-    "Study/sqld/4.2. TCL.md",
-    "Study/sqld",
-    "Study/docker 1",
-    "네트워크 정리",
-    "무제 폴더",
     "무제 파일.canvas",
-    "아이디어/모두버스 2차 수정",
-    "Study/apache, nginx",
-    "Study/ORM -Prisma",
-    "Study/docker",
     "Study/백엔드/real-time-communication/무제 파일.canvas",
     "Study/무제 파일 1.canvas",
     "Study/무제 파일.canvas"
