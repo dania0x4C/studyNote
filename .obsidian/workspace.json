@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e87b118fc2a431de",
+        "id": "2c20fb60c289d16a",
         "type": "tabs",
         "children": [
           {
-            "id": "0609e15a49b0aaa4",
+            "id": "bdde495d4ed1f80b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/DB/sqld/5.1. 마지막 복습.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "5.1. 마지막 복습"
-            }
-          },
-          {
-            "id": "9c2c265109d04529",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/DB/sqld/5.3. 예상문제 1회 문제 풀이.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.3. 예상문제 1회 문제 풀이"
+              "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9b6bcef44b73d61d",
@@ -179,31 +159,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9c2c265109d04529",
+  "active": "bdde495d4ed1f80b",
   "lastOpenFiles": [
+    "Study/CS/ssl.md",
+    "Study/infra/https 적용 시키기.md",
+    "Study/CS/https.md",
+    "무제",
+    "Study/CS/port.md",
+    "Study/CS/proxy.md",
+    "Study/CS/인바운드.md",
+    "2025-03-04.md",
+    "2025-03-05.md",
     "Study/DB/sqld/5.1. 마지막 복습.md",
+    "Study/DB/sqld/5.4. 예상문제 2회 문제 풀이.md",
+    "Study/DB/sqld/1. 데이터 모델링.md",
     "Study/DB/sqld/5.3. 예상문제 1회 문제 풀이.md",
     "Study/DB/sqld/5.2. 책 문제풀이.md",
     "gitignore.md",
     "Study/DB/sqld/4.4. DCL.md",
     "어포나티/깃.md",
-    "2025-03-05.md",
     "어포나티",
     "Study/DB/sqld/3. SQL 활용.md",
     "Study/DB/sqld/2.2.1 NATURAL JOIN.md",
     "Study/DB/sqld/3.1. window 함수.md",
     "Study/DB/sqld/3.2. TOP N 쿼리.md",
     "Study/DB/sqld/2. SQL 기본.md",
-    "Study/DB/sqld/1. 데이터 모델링.md",
     "springboot/1_week/0_자바 문법 기초.md",
     "springboot/1_week/Ioc.md",
     "springboot/1_week/Dispatcher Servlet.md",
     "springboot/1_week/Annotation.md",
-    "springboot/1_week/DI.md",
-    "springboot/1_week/1_스프링 기본.md",
-    "springboot/1_week/자바의 메모리 구조.md",
-    "2025-03-04.md",
-    "springboot 복사본/spring/spring_hadoop_study/README.md",
     "springboot 복사본/spring/spring_hadoop_study/demo/src/main/java/com/example/demo/DemoApplication.java",
     "springboot 복사본/spring/spring_hadoop_study/demo/src/main/java/com/example/demo/service/UserService.java",
     "springboot 복사본/spring/spring_hadoop_study/demo/src/main/java/com/example/demo/repository/UserRepository.java",
@@ -212,11 +196,6 @@
     "springboot 복사본/spring/spring_hadoop_study/demo/src/test/java/com/example/demo/DemoApplicationTests.java",
     "springboot 복사본/spring/spring_hadoop_study/demo/src/main/java/com/example/demo/service",
     "springboot 복사본/spring/spring_hadoop_study/demo/src/main/java/com/example/demo/repository",
-    "springboot 복사본/spring/spring_hadoop_study/demo/src/main/java/com/example/demo/model",
-    "springboot 복사본/1_week/자바의 메모리 구조.md",
-    "springboot 복사본/1_week/Ioc.md",
-    "springboot 복사본/1_week/Dispatcher Servlet.md",
-    "springboot 복사본/1_week/DI.md",
     "png/스크린샷 2025-03-03 오후 9.45.50.png",
     "png/스크린샷 2025-03-03 오후 10.21.07.png",
     "png/스크린샷 2025-03-03 오후 10.20.27.png",
