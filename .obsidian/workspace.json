@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "어포나티/1feature flag.md",
+                "file": "어포나티/자동 시드 파일 생성하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1feature flag"
-            }
-          },
-          {
-            "id": "575e49f920c570a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/framework/nest.js/NestJS 심화 개념 정리.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NestJS 심화 개념 정리"
+              "title": "자동 시드 파일 생성하기"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,20 +163,30 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "575e49f920c570a5",
+  "active": "80f02c1017a5f74a",
   "lastOpenFiles": [
-    "어포나티/2 FAQ, drag and drop.md",
-    "Study/framework/nest.js/NestJS 심화 개념 정리.md",
-    "sdk, npm, yarn 2주의 시간.md",
-    "어포나티/1feature flag.md",
-    "어포나티/깃 rebase 전략.md",
+    "어포나티/키.md",
+    "어포나티/자동 시드 파일 생성하기.md",
+    "토익/지니쌤 기본 정보.md",
     "토익/문법.md",
+    "어포나티/sdk, npm, yarn 2주의 시간.md",
+    "어포나티/1feature flag.md",
+    "어포나티/2 FAQ, drag and drop.md",
     "Study/framework/nest.js/2. nest구조/1. controller, service, module.md",
+    "Study/DB/ORM/typeorm-repository.md",
+    "Study/DB/ORM/typeorm-full-repository-guide.md",
+    "Study/DB/ORM/typeORM with postgre.md",
+    "Study/DB/ORM/typeorm-repository-guide.md",
+    "Study/DB/ORM/typeorm-repository-all-functions.md",
+    "Study/DB/ORM/Prisma.md",
+    "Study/관리전략/코드 관리 전략.md",
+    "Study/관리전략",
+    "Study/framework/nest.js/NestJS 심화 개념 정리.md",
+    "어포나티/깃 rebase 전략.md",
     "Study/framework/nest.js/1. nest 기본 실행/1. 다운 및 실행.md",
     "Study/framework/nest.js/1. nest 기본 실행/2. URL 구조.md",
     "2025-03-18.md",
     "어포나티/order 정렬.md",
-    "토익/지니쌤 기본 정보.md",
     "토익/1주차.md",
     "토익/질문/1주차.md",
     "Templates/2025-03-11.md",
@@ -199,16 +194,7 @@
     "토익",
     "어포나티/error 일지.md",
     "Study/framework/spring/2_week/스프링 구조.md",
-    "어포나티/type orm.md",
-    "어포나티/key of type of.md",
-    "어포나티/동시성.md",
-    "Study/framework/spring/무제.md",
     "Study/framework/spring/2_week",
-    "Study/framework/spring/무제 1.md",
-    "Study/framework/spring/1_week/자바의 메모리 구조.md",
-    "Study/framework/spring/1_week/Dispatcher Servlet.md",
-    "Study/framework/spring/1_week/Ioc.md",
-    "Study/framework/spring/1_week/DI.md",
     "Study/framework/spring/1_week",
     "Study/framework/1_week",
     "Study/1_week",
@@ -218,7 +204,6 @@
     "png/스크린샷 2024-09-04 오후 4.25.42.png",
     "Study/토익/질문",
     "Study/모종반_RC전략북_vol.4(불라방전용).pdf",
-    "모종반_RC전략북_vol.4(불라방전용).pdf",
     "png/스크린샷 2025-03-03 오후 9.45.50.png",
     "png/스크린샷 2025-03-03 오후 10.21.07.png",
     "png/Pasted image 20250217222113.png",
