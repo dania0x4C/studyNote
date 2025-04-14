@@ -1,4 +1,4 @@
-[[Study/CS/https|https]]
+[[https|https]]
 [[ssl]]
 ## 1. AWS EC2 보안 그룹 설정
 
