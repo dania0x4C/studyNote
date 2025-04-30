@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.어포나티 인턴 일지/12. 테스트 전략.md",
+                "file": "0.어포나티 인턴 일지/15. restful api.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. 테스트 전략"
+              "title": "15. restful api"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9b6bcef44b73d61d",
@@ -165,34 +166,34 @@
   },
   "active": "bbcd32e21ac31a37",
   "lastOpenFiles": [
-    "0.어포나티 인턴 일지/14. typeOrm관계 설정 및 cascade.md",
-    "0.어포나티 인턴 일지/15. restful api.md",
+    "0.어포나티 인턴 일지/18. header에서 데이터 꺼내서 처리하기.md",
+    "0.어포나티 인턴 일지/typeScript Type.md",
+    "0.soulmate 개발일지/rabbitMQ.md",
     "0.어포나티 인턴 일지/17. 자동 환경변수 fallback 방식.md",
-    "1.Study/framework/TypeScript/3. null 병합 연산자.md",
     "0.어포나티 인턴 일지/16. queryBuilder의 장점과 단점.md",
-    "0.어포나티 인턴 일지/2.  FAQ 순서 관리 로직 정리 및 개선 방안.md",
-    "0.어포나티 인턴 일지/12. 테스트 전략.md",
+    "0.어포나티 인턴 일지/15. restful api.md",
+    "0.어포나티 인턴 일지/14. typeOrm관계 설정 및 cascade.md",
     "0.어포나티 인턴 일지/13. transaction with promise.all.md",
-    "스크린샷 2025-04-15 오후 7.04.11.png",
+    "0.어포나티 인턴 일지/12. 테스트 전략.md",
     "0.어포나티 인턴 일지/11. SDK 제작.md",
     "0.어포나티 인턴 일지/10. date-fns.md",
-    "0.어포나티 인턴 일지/0. Git 브랜치 관리 및 rebase병합 전략 고도화.md",
-    "1.Study/DB/ORM/typeORM with postgre.md",
-    "1.Study/DB/ORM/typeorm-repository.md",
-    "0.어포나티 인턴 일지/1. 기능 플래그(Feature Flag) 관리 시스템 개선 정리.md",
-    "png/스크린샷 2025-04-14 오전 10.53.17.png",
     "0.어포나티 인턴 일지/9. Guard.md",
-    "0.어포나티 인턴 일지/5. image-describe-sdk.md",
-    "0.어포나티 인턴 일지/vitest.md",
-    "0.어포나티 인턴 일지/999. 자동 시드 파일 생성하기(미완성).md",
-    "1.Study/DB/sqld/1. 데이터 모델링.md",
-    "1.Study/코테(python)/04.06.md",
-    "1.Study/토익/듣기 워크북.md",
-    "0.어포나티 인턴 일지/4. 시딩(Seeding) 작업 고도화 가이드.md",
     "0.어포나티 인턴 일지/8. 타입추론 개선.md",
     "0.어포나티 인턴 일지/7. key of type of - not.md",
-    "0.soulmate 개발일지/코드 컨벤션.md",
-    "0.soulmate 개발일지/로그인.md",
+    "0.어포나티 인턴 일지/6. 디비 동시성 -  not.md",
+    "0.어포나티 인턴 일지/5. image-describe-sdk.md",
+    "0.어포나티 인턴 일지/4. 시딩(Seeding) 작업 고도화 가이드.md",
+    "0.어포나티 인턴 일지/3. 도커에서 디버깅.md",
+    "0.어포나티 인턴 일지/2.  FAQ 순서 관리 로직 정리 및 개선 방안.md",
+    "0.어포나티 인턴 일지/1. 기능 플래그(Feature Flag) 관리 시스템 개선 정리.md",
+    "0.어포나티 인턴 일지/0. Git 브랜치 관리 및 rebase병합 전략 고도화.md",
+    "1.Study/framework/TypeScript/3. null 병합 연산자.md",
+    "스크린샷 2025-04-15 오후 7.04.11.png",
+    "1.Study/DB/ORM/typeORM with postgre.md",
+    "1.Study/DB/ORM/typeorm-repository.md",
+    "png/스크린샷 2025-04-14 오전 10.53.17.png",
+    "0.어포나티 인턴 일지/vitest.md",
+    "0.어포나티 인턴 일지/999. 자동 시드 파일 생성하기(미완성).md",
     "무제",
     "0.soulmate 개발일지",
     "1.Study/관리전략",
