@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ca335f34265db9fe",
+        "id": "eac7ff4c41902961",
         "type": "tabs",
         "children": [
           {
-            "id": "74e17f289c28a407",
+            "id": "2aee4290943472d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.어포나티 인턴 일지/19. 주요 서비스 testCode 작성.md",
+                "file": "0.어포나티 인턴 일지/24. 할인 정책 추가.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19. 주요 서비스 testCode 작성"
+              "title": "24. 할인 정책 추가"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9b6bcef44b73d61d",
@@ -164,37 +163,41 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "74e17f289c28a407",
+  "active": "2aee4290943472d1",
   "lastOpenFiles": [
-    "0.어포나티 인턴 일지/21. 낙관적락, 비관적락.md",
-    "0.어포나티 인턴 일지/typeScript Type.md",
-    "0.어포나티 인턴 일지/금융 결제 시스템.md",
+    "1.Study/CS/정처기 실기/1장.md",
+    "핀테크",
+    "0.어포나티 인턴 일지/23.2.1 조인 3가지 방식.md",
+    "1.Study/CS/정처기 실기",
+    "1.Study/CS/무제.md",
+    "0.어포나티 인턴 일지/23.2. optimizer.md",
+    "0.어포나티 인턴 일지/23.1. InnoDB.md",
+    "0.어포나티 인턴 일지/23.9. 격리 수준(Isolation Level).md",
+    "0.어포나티 인턴 일지/23. MySql.md",
+    "0.어포나티 인턴 일지/23.5. MVCC.md",
+    "0.어포나티 인턴 일지/23.7. 메모리 관리 및 임시 테이블.md",
+    "0.어포나티 인턴 일지/23.6. 더블 라이트 버퍼(Double Write Buffer).md",
+    "0.어포나티 인턴 일지/23.8. 갭 락(Gap Lock).md",
+    "png/Pasted image 20250523104015.png",
+    "할인 적용.md",
+    "0.어포나티 인턴 일지/23.4.  storageEngine.md",
+    "1.Study/DB/mysql/mysql.md",
+    "1.Study/DB/mysql",
+    "1.Study/DB/mysql.md",
+    "0.어포나티 인턴 일지/23.3. connection pooling.md",
     "0.어포나티 인턴 일지/22. 알림 기능.md",
-    "1.Study/AWS MySQL Session.md",
-    "Pasted image 20250523104015.png",
-    "0.어포나티 인턴 일지/19. 주요 서비스 testCode 작성.md",
+    "0.어포나티 인턴 일지/21. 낙관적락, 비관적락.md",
     "0.어포나티 인턴 일지/20. jest.md",
-    "0.어포나티 인턴 일지/12. 테스트 전략.md",
-    "0.soulmate 개발일지/socket.io.md",
+    "0.어포나티 인턴 일지/19. 주요 서비스 testCode 작성.md",
     "0.어포나티 인턴 일지/18. header에서 데이터 꺼내서 처리하기.md",
     "0.어포나티 인턴 일지/17. 자동 환경변수 fallback 방식.md",
     "0.어포나티 인턴 일지/15. restful api.md",
     "0.어포나티 인턴 일지/14. typeOrm관계 설정 및 cascade.md",
     "0.어포나티 인턴 일지/13. transaction with promise.all.md",
-    "0.어포나티 인턴 일지/9. Guard.md",
-    "0.어포나티 인턴 일지/8. 타입추론 개선.md",
-    "0.어포나티 인턴 일지/7. key of type of - not.md",
-    "0.어포나티 인턴 일지/6. 디비 동시성 -  not.md",
-    "0.어포나티 인턴 일지/4. 시딩(Seeding) 작업 고도화 가이드.md",
-    "0.어포나티 인턴 일지/10. date-fns.md",
-    "0.어포나티 인턴 일지/11. SDK 제작.md",
-    "0.soulmate 개발일지/rabbitMQ.md",
-    "0.어포나티 인턴 일지/16. queryBuilder의 장점과 단점.md",
-    "0.어포나티 인턴 일지/5. image-describe-sdk.md",
-    "0.어포나티 인턴 일지/3. 도커에서 디버깅.md",
+    "png/스크린샷 2025-06-08 오후 1.22.20.png",
+    "png/스크린샷 2025-06-08 오후 1.19.52.png",
     "png/스크린샷 2025-04-15 오후 7.04.11.png",
     "png/스크린샷 2025-04-14 오전 10.53.17.png",
-    "무제",
     "0.soulmate 개발일지",
     "1.Study/관리전략",
     "1.Study/토익/질문",
@@ -202,15 +205,11 @@
     "1.Study/framework/spring/2_week",
     "1.Study/framework/spring/1_week",
     "Study/framework/1_week",
-    "Study/1_week",
-    "1_week",
     "png/스크린샷 2025-03-03 오후 10.20.27.png",
     "png/스크린샷 2025-03-03 오후 9.46.27.png",
     "png/스크린샷 2024-09-04 오후 4.25.42.png",
     "png/스크린샷 2025-03-03 오후 9.45.50.png",
     "png/스크린샷 2025-03-03 오후 10.21.07.png",
-    "png/Pasted image 20250217222113.png",
-    "png/Pasted image 20250226001745.png",
     "무제 파일.canvas",
     "Study/백엔드/real-time-communication/무제 파일.canvas",
     "Study/무제 파일 1.canvas",
