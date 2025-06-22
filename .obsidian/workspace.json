@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.어포나티 인턴 일지/24. 할인 정책 추가.md",
+                "file": "0.soulmate 개발일지/7. docker 에서 디버깅 모드 사용하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24. 할인 정책 추가"
+              "title": "7. docker 에서 디버깅 모드 사용하기"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 506.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "9b6bcef44b73d61d",
@@ -165,6 +166,24 @@
   },
   "active": "2aee4290943472d1",
   "lastOpenFiles": [
+    "0.soulmate 개발일지/6. githubAction.md",
+    "0.soulmate 개발일지/7. docker 에서 디버깅 모드 사용하기.md",
+    "0.soulmate 개발일지/4. main.ts.md",
+    "0.soulmate 개발일지/5. scripts 폴더.md",
+    "0.soulmate 개발일지/rabbitMQ.md",
+    "0.soulmate 개발일지/3. typeorm 구성, 선택 이유.md",
+    "0.soulmate 개발일지/2. package.json  자주 사용하는 setting 설명.md",
+    "0.soulmate 개발일지/socket.io.md",
+    "0.soulmate 개발일지/1. docker setting.md",
+    "0.soulmate 개발일지/로그인.md",
+    "0.soulmate 개발일지/코드 컨벤션.md",
+    "0.soulmate 개발일지/무제",
+    "0.soulmate 개발일지/error/api-swagger.md",
+    "1.Study/NetWork/ISO 7계층.md",
+    "0.soulmate 개발일지/error",
+    "1.Study/AWS MySQL Session.md",
+    "0.어포나티 인턴 일지/24. 할인 정책 추가.md",
+    "1.Study/NetWork",
     "1.Study/CS/정처기 실기/1장.md",
     "핀테크",
     "0.어포나티 인턴 일지/23.2.1 조인 3가지 방식.md",
@@ -179,21 +198,7 @@
     "0.어포나티 인턴 일지/23.6. 더블 라이트 버퍼(Double Write Buffer).md",
     "0.어포나티 인턴 일지/23.8. 갭 락(Gap Lock).md",
     "png/Pasted image 20250523104015.png",
-    "할인 적용.md",
-    "0.어포나티 인턴 일지/23.4.  storageEngine.md",
-    "1.Study/DB/mysql/mysql.md",
     "1.Study/DB/mysql",
-    "1.Study/DB/mysql.md",
-    "0.어포나티 인턴 일지/23.3. connection pooling.md",
-    "0.어포나티 인턴 일지/22. 알림 기능.md",
-    "0.어포나티 인턴 일지/21. 낙관적락, 비관적락.md",
-    "0.어포나티 인턴 일지/20. jest.md",
-    "0.어포나티 인턴 일지/19. 주요 서비스 testCode 작성.md",
-    "0.어포나티 인턴 일지/18. header에서 데이터 꺼내서 처리하기.md",
-    "0.어포나티 인턴 일지/17. 자동 환경변수 fallback 방식.md",
-    "0.어포나티 인턴 일지/15. restful api.md",
-    "0.어포나티 인턴 일지/14. typeOrm관계 설정 및 cascade.md",
-    "0.어포나티 인턴 일지/13. transaction with promise.all.md",
     "png/스크린샷 2025-06-08 오후 1.22.20.png",
     "png/스크린샷 2025-06-08 오후 1.19.52.png",
     "png/스크린샷 2025-04-15 오후 7.04.11.png",
@@ -202,9 +207,6 @@
     "1.Study/관리전략",
     "1.Study/토익/질문",
     "1.Study/토익",
-    "1.Study/framework/spring/2_week",
-    "1.Study/framework/spring/1_week",
-    "Study/framework/1_week",
     "png/스크린샷 2025-03-03 오후 10.20.27.png",
     "png/스크린샷 2025-03-03 오후 9.46.27.png",
     "png/스크린샷 2024-09-04 오후 4.25.42.png",
