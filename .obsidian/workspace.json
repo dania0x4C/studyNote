@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.51103591918945,
-    "collapsed": true
+    "width": 254.51103591918945
   },
   "right": {
     "id": "9b6bcef44b73d61d",
@@ -164,8 +163,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dbeb0fb210fb9105",
+  "active": "5b59b5d55104b786",
   "lastOpenFiles": [
+    "0. KB 공모전",
     "0.어포나티 인턴 일지/21. 낙관적락, 비관적락.md",
     "0.어포나티 인턴 일지/25. 인턴십 마무리 보고서.md",
     "0.어포나티 인턴 일지/2.  FAQ 순서 관리 로직 정리 및 개선 방안.md",
@@ -192,7 +192,6 @@
     "0.soulmate 개발일지/로그인.md",
     "0.soulmate 개발일지/코드 컨벤션.md",
     "0.soulmate 개발일지/무제",
-    "0.soulmate 개발일지/error/api-swagger.md",
     "0.soulmate 개발일지/error",
     "1.Study/NetWork",
     "핀테크",
