@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "47083c8ce9c5e168",
+        "id": "0c1253e744360731",
         "type": "tabs",
         "children": [
           {
-            "id": "dbeb0fb210fb9105",
+            "id": "c6cffcc74554e003",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. KB 공모전/브레인 스토밍.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "브레인 스토밍"
+              "title": "새 탭"
             }
           }
         ]
@@ -163,10 +159,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dbeb0fb210fb9105",
+  "active": "5b59b5d55104b786",
   "lastOpenFiles": [
-    "0.어포나티 인턴 일지/25. 인턴십 마무리 보고서.md",
     "0. KB 공모전/브레인 스토밍.md",
+    "1.Study/CS/정처기 실기/실기 필수 암기 개념 요약.pdf",
+    "0.어포나티 인턴 일지/25. 인턴십 마무리 보고서.md",
     "0. KB 공모전",
     "0.어포나티 인턴 일지/21. 낙관적락, 비관적락.md",
     "0.어포나티 인턴 일지/2.  FAQ 순서 관리 로직 정리 및 개선 방안.md",
@@ -191,7 +188,6 @@
     "0.soulmate 개발일지/socket.io.md",
     "0.soulmate 개발일지/1. docker setting.md",
     "0.soulmate 개발일지/로그인.md",
-    "0.soulmate 개발일지/코드 컨벤션.md",
     "0.soulmate 개발일지/무제",
     "0.soulmate 개발일지/error",
     "1.Study/NetWork",
@@ -205,7 +201,6 @@
     "png/스크린샷 2025-04-14 오전 10.53.17.png",
     "0.soulmate 개발일지",
     "1.Study/관리전략",
-    "1.Study/토익/질문",
     "png/스크린샷 2025-03-03 오후 10.20.27.png",
     "png/스크린샷 2025-03-03 오후 9.46.27.png",
     "png/스크린샷 2024-09-04 오후 4.25.42.png",
